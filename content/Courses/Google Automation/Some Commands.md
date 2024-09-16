@@ -1,0 +1,1 @@
+cd ls mkdir  cd cut grep rm touch chmod cp mv sort 
