@@ -11,7 +11,7 @@ import { write } from "./helpers"
 import { BuildCtx } from "../../util/ctx"
 import { QuartzPluginData } from "../vfile"
 import fs from "node:fs/promises"
-import { styleText } from "util"
+import chalk from "chalk"
 
 const defaultOptions: SocialImageOptions = {
   colorScheme: "lightMode",
@@ -36,7 +36,7 @@ async function generateSocialImage(
     const iconData = await fs.readFile(iconPath)
     iconBase64 = `data:image/png;base64,${iconData.toString("base64")}`
   } catch (err) {
-    console.warn(styleText("yellow", `Warning: Could not find icon at ${iconPath}`))
+    console.warn(chalk.yellow(`Warning: Could not find icon at ${iconPath}`))
   }
 
   const imageComponent = userOpts.imageStructure({
@@ -156,7 +156,7 @@ export const CustomOgImages: QuartzEmitterPlugin<Partial<SocialImageOptions>> = 
             const generatedOgImagePath = isRealFile
               ? `https://${baseUrl}/${pageData.slug!}-og-image.webp`
               : undefined
-            const defaultOgImagePath = `https://${baseUrl}/static/og-image.png`
+            const defaultOgImagePath = `https://${baseUrl}/static/my-og-image.jpg`
             const ogImagePath = userDefinedOgImagePath ?? generatedOgImagePath ?? defaultOgImagePath
             const ogImageMimeType = `image/${getFileExtension(ogImagePath) ?? "png"}`
             return (

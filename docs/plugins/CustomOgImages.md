@@ -68,7 +68,7 @@ The `socialImage` property should contain a link to an image either relative to 
 >
 > The priority for what image will be used for the cover image looks like the following: `frontmatter property > generated image (if enabled) > default image`.
 >
-> The default image (`quartz/static/og-image.png`) will only be used as a fallback if nothing else is set. If the Custom OG Images emitter plugin is enabled, it will be treated as the new default per page, but can be overwritten by setting the `socialImage` frontmatter property for that page.
+> The default image (`quartz/static/my-og-image.jpg`) will only be used as a fallback if nothing else is set. If the Custom OG Images emitter plugin is enabled, it will be treated as the new default per page, but can be overwritten by setting the `socialImage` frontmatter property for that page.
 
 ## Customization
 
