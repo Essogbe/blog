@@ -11,15 +11,13 @@ I'm an AI student passionate about Machine Learning Engineering, slightly obsess
 
 Think of it as a digital journal: raw insights, experiments, discoveries, and the occasional deep dive into topics that spark my curiosity.
 
----
-
 ## 🚧 Nothing here yet?
 
 No published articles just yet... but they're coming soon!
 
 I'm taking my time to build the foundations of this site and make it truly mine. In the meantime, feel free to explore and check back regularly—I'll be sharing content as I go.
 
----
+
 
 ## 🧭 What you'll find here soon
 
@@ -40,9 +38,9 @@ I'm taking my time to build the foundations of this site and make it truly mine.
 - The intersection of AI and society
 - Learning in public: failures, breakthroughs, and everything in between
 
----
 
-## 🔗 Quick links
+
+
 
 - 👤 [[About]] – Learn more about me and my background
 

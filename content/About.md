@@ -2,61 +2,43 @@
 showDate: false
 ---
 
-# About Me
 
-I'm **Romuald AMEGBEDJI** — AI student, curious mind, and passionate about everything related to Artificial Intelligence and tech.
+Hey there! I'm **Romuald AMEGBEDJI**, and I'm on a mission to bridge the gap between AI research and real-world impact.
 
-Currently finishing my Bachelor's in Artificial Intelligence at the Institut de Formation et de Recherche en Informatique ([IFRI](https://ifri-uac.bj)), University of Abomey-Calavi, Benin.
+Right now, I'm wrapping up my Bachelor's in Artificial Intelligence at IFRI (Institut de Formation et de Recherche en Informatique) at the University of Abomey-Calavi here in Benin. But honestly, most of my learning happens outside the classroom — currently as a Machine Learning Engineer intern at [Etihuku](https://etihuku.com), where we're tackling some pretty ambitious challenges across Africa.
 
-**Currently interning at [Etihuku](https://etihuku.com) as a Machine Learning Engineer**, working on AI solutions that address African challenges at scale.
+## What gets me excited
 
-My journey blends learning, hands-on projects, community engagement, and a strong drive to make a meaningful impact.
+I'll be straight with you: I'm fascinated by the messy, complex world of **AI in production**. You know, that space where your beautiful model meets real users. That's where the magic happens :)
 
----
+I spend way too much time reading about MLOps, DevOps, and anything related to making AI systems actually work at scale. There's something deeply satisfying about taking a prototype and turning it into something thousands of people can rely on.
 
-## What drives me 
+## Where I'm investing my time
 
-I'm fascinated by AI as a whole, but what excites me most is **AI in production** — where models meet the real world.
+**[Etihuku](https://etihuku.com)** has been my main focus lately. As a Machine Learning Engineer intern, I'm learning what it takes to build AI solutions that can handle real African problems
 
-I'm constantly learning about **MLOps**, **DevOps**, and everything related to deploying, monitoring, and scaling AI solutions.
+I also volunteer with **[Isheero](https://www.isheero.com)**, Benin's largest AI and Data expert network. Most of my work there involves communication and outreach, trying to make AI less intimidating and more accessible to everyone.
 
----
+For the past two years, I've been part of the IT team at **[FRIARE](https://friare.org)**, a foundation focused on responsible AI development in Africa. It's given me a front-row seat to the ethical discussions that should be happening more often in our field.
 
-## My commitments 
 
-**[Etihuku](https://etihuku.com)** — Currently interning as a **Machine Learning Engineer**,learning and  developing AI solutions that tackle large-scale African problems.
+## Some projects I'm proud of
 
-**[Isheero](https://www.isheero.com)** — Volunteer at Benin's largest AI and Data expert network, contributing to communication and outreach to promote data culture and AI literacy.
+Last year, I worked on something pretty cool: an **AI-powered thesis defense scheduling platform** through an ARES-funded collaboration with the University of Mons in Belgium. Under [Dr. Ratheil HOUNDJI](https://ratheil.info/)'s supervision, we built something that could actually scale across our entire university. The scheduling headaches were real, and automating them felt like a small victory.
 
-**[FRIARE](https://friare.org)** — Active for 2 years in the IT Team of this foundation working for responsible, ethical AI and advanced AI technology R&D in Africa.
+Through IFRI's AI and IoT club, I've been tinkering with a **smart home prototype** and we're currently building a chatbot to answer all those repetitive questions students have about the institute. You know, the "when is registration?" and "where do I submit my thesis?" kind of stuff.
 
-These commitments matter to me: I believe tech isn't neutral — and we can (and must) use it to create **useful and sustainable value**.
+I've also been doing web backend development for about three years now, mostly in Python and Laravel. These days, I'm more interested in the deployment and monitoring side — how do you keep things running smoothly when they're actually being used?
 
----
+One project that really tested us was the **AI4CKD Hackathon**, where we partnered with Google, CNHU-HKM's nephrology service, and LABEF laboratory to work on chronic kidney disease prediction. My team built a [prediction model and API](https://github.com/Essogbe/hackathon-ai4ckd) that could actually support doctors' decision-making. Working with real medical data and knowing that your code might help save lives — that's heavy stuff.
 
-## What I'm working on 
+## What's next
 
-### Inter-university AI Project
-Participated in an ARES-funded project (Belgium) in collaboration with the Polytechnic Faculty of the University of Mons. Under [Dr. Ratheil HOUNDJI](https://ratheil.info/)'s supervision, we designed an **AI-powered automatic thesis defense scheduling platform**, scalable to the entire university.
+My biggest dream? Contributing to projects that create real value for Africa. Whether that's in education, healthcare, research, or just making technology more accessible, I want to be part of building solutions with and for this continent.
 
-### Smart Home & Institute Chatbot
-With IFRI's **AI and IoT club**, contributed to a **smart home prototype** and currently developing a **chatbot** to answer all institute-related questions.
+There's so much talent here, and so many problems worth solving. I'm optimistic about what we can accomplish.
 
-### DevOps & Backend
-3+ years of **web backend** development in Python and Laravel. Now focusing on **DevOps/MLOps** aspects, working on **deployment automation and monitoring** for web and AI applications.
-
-### AI4CKD Hackathon
-Partnership with IFRI, Google, CNHU-HKM nephrology service, and LABEF laboratory for a hackathon focused on **chronic kidney disease prediction**. My team proposed a **robust prediction model** and **[scalable API](https://github.com/Essogbe/hackathon-ai4ckd)** to support specialists' decision-making.
-
----
-
-## Looking ahead 🌱
-
-My biggest dream is to **contribute to projects that create value for the African continent**. Whether in education, research, healthcare, or technology access, I want to be part of building solutions **for and with Africa**.
-
----
-
-## Connect with me
+## Let's connect
 
 - [LinkedIn](https://www.linkedin.com/in/romuald-amegbedji/)
 - [GitHub](https://github.com/Essogbe)
@@ -64,9 +46,4 @@ My biggest dream is to **contribute to projects that create value for the Africa
 
 ---
 
-This blog is my exploration ground — and if some of my ideas resonate with yours, that's even better.
-
-*See you around, somewhere between two lines of code :)*
-
-
-
+This blog is where I work through ideas, document what I'm learning, and hopefully share something useful. If anything here resonates with you, I'd love to hear about it.
