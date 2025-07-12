@@ -1,5 +1,6 @@
 ---
-title : "Parallel Computing"
+title: Parallel Computing with Python - Part 1
+published: false
 ---
 
-### Learning Parallel Computing
+Few weeks ago , 
