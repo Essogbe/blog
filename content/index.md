@@ -2,7 +2,7 @@
 title: Home
 showDate: false
 date: 
-image: my-images/og-image.png
+socialImage: my-images/og-image.png
 ---
 
 # Hey there, I'm Rom 
