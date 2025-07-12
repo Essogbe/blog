@@ -146,6 +146,11 @@ export const CustomOgImages: QuartzEmitterPlugin<Partial<SocialImageOptions>> = 
           (pageData) => {
             const isRealFile = pageData.filePath !== undefined
             let userDefinedOgImagePath = pageData.frontmatter?.socialImage
+            console.log(
+              chalk.blue(
+                `Processing OG image for slug: ${pageData.slug} with userDefinedOgImagePath: ${userDefinedOgImagePath}`,
+              ),
+            )
 
             if (userDefinedOgImagePath) {
               userDefinedOgImagePath = isAbsoluteURL(userDefinedOgImagePath)
@@ -160,7 +165,7 @@ export const CustomOgImages: QuartzEmitterPlugin<Partial<SocialImageOptions>> = 
             const ogImagePath = userDefinedOgImagePath ?? generatedOgImagePath ?? defaultOgImagePath
             console.log(
               chalk.blue(
-                `Using OG image path: ${ogImagePath} for slug: ${pageData.slug} (userDefined: ${userDefinedOgImagePath}, generated: ${generatedOgImagePath})`,
+                `Using OG image path: ${ogImagePath} for slug: ${pageData.slug} (userDefined: ${userDefinedOgImagePath})`,
               ),
             )
             const ogImageMimeType = `image/${getFileExtension(ogImagePath) ?? "png"}`

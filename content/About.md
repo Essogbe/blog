@@ -1,5 +1,6 @@
 ---
 showDate: false
+socialImage: my-images/og-image.png
 ---
 
 
