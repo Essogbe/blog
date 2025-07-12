@@ -1,7 +1,8 @@
 ---
 title: Home
 showDate: false
-date:
+date: 
+socialImage: https://media.licdn.com/dms/image/v2/D4E03AQFqBTVC2bpA6w/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1732479259561?e=1757548800&v=beta&t=vmZ81OKOfb-D7b6vQ8JWFhiZVcqrXwvHPEnguTO0nA8
 ---
 
 # Hey there, I'm Rom 
