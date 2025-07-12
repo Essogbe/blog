@@ -1,6 +1,7 @@
 ---
-title: "Home"
-showDate : false
+title: Home
+showDate: false
+date: "null"
 ---
 
 # Hey there, I'm Rom 👋
@@ -9,7 +10,7 @@ Welcome to my digital space.
 
 I'm an AI student passionate about Machine Learning Engineering, slightly obsessed with DevOps, and endlessly curious about all things tech and beyond. This blog is my corner of the web—a place where I share what I learn, what I build, and what I think about, without necessarily following a strict narrative thread.
 
-Think of it as a digital journal: raw insights, experiments, discoveries, and the occasional deep dive into topics that spark my curiosity ;)
+Think of it as a digital journal: raw insights, experiments, discoveries, and the occasional deep dive into topics that spark my curiosity 
 
 
 
