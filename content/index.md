@@ -4,7 +4,7 @@ showDate: false
 date:
 ---
 
-# Hey there, I'm Rom 👋
+# Hey there, I'm Rom 
 
 Welcome to my digital space.
 
