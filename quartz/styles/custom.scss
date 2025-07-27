@@ -1,3 +1,18 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+.center-image {
+    display: block !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+    width: 80% !important;
+    height: auto !important; // Maintient le ratio d'aspect
+}
+
+.tweet-container {
+    display: block !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+    text-align: center !important;
+    max-width: 90% !important;
+}
