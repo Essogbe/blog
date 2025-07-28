@@ -1,6 +1,9 @@
 ---
 socialImage: https://upload.wikimedia.org/wikipedia/en/thumb/8/87/Tea_Dating_Advice_logo.png/250px-Tea_Dating_Advice_logo.png
 title: Le Scandale Tea App et le Vibe Coding
+tags:
+  - ai
+  - vibecoding
 ---
 
 
