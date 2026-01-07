@@ -6,7 +6,7 @@ socialImage: my-images/og-image.png
 
 Hey there! I'm **Romuald AMEGBEDJI**, and I'm on a mission to bridge the gap between AI research and real-world impact.
 
-Right now, I'm wrapping up my Bachelor's in Artificial Intelligence at IFRI (Institut de Formation et de Recherche en Informatique) at the University of Abomey-Calavi here in Benin. But honestly, most of my learning happens outside the classroom ; currently as a Machine Learning Engineer intern at [Etihuku](https://etihuku.com), where we're tackling some pretty ambitious challenges across Africa.
+Right now, I'm wrapping up my Bachelor's in Artificial Intelligence at IFRI (Institut de Formation et de Recherche en Informatique) at the University of Abomey-Calavi here in Benin Republic.  
 
 ## What gets me excited
 
@@ -17,6 +17,8 @@ I spend way too much time reading about MLOps, DevOps, and anything related to m
 ## Where I'm investing my time
 
 **[Etihuku](https://etihuku.com)** has been my main focus lately. As a Machine Learning Engineer intern, I'm learning what it takes to build AI solutions that can handle real African problems
+
+Now , I’m  interning at [ASIN](https://asin.bj/), working on audit and compliance for government IT projects.
 
 I also volunteer with **[Isheero](https://www.isheero.com)**, Benin's largest AI and Data expert network. Most of my work there involves communication and outreach, trying to make AI less intimidating and more accessible to everyone.
 
@@ -29,7 +31,7 @@ Last year, I worked on something pretty cool: an **AI-powered thesis defense sch
 
 Through IFRI's AI and IoT club, I've been tinkering with a **smart home prototype** and we're currently building a chatbot to answer all those repetitive questions students have about the institute. You know, the "when is registration?" and "where do I submit my thesis?" kind of things.
 
-I've also been doing web backend development for about three years now, mostly in Python and Laravel. These days, I'm more interested in the deployment and monitoring side — how do you keep things running smoothly when they're actually being used?
+I've also been doing web backend development for about three years now, mostly in Python and Laravel. These days, I'm more interested in the deployment and monitoring side :  how do you keep things running smoothly when they're actually being used?
 
 One project that really tested us was the **AI4CKD Hackathon**, where we partnered with Google, CNHU-HKM's nephrology service, and LABEF laboratory to work on chronic kidney disease prediction. My team built a [prediction model and API](https://github.com/Essogbe/hackathon-ai4ckd) that could actually support doctors' decision-making. Working with real medical data and knowing that your code might help save lives is heavy stuff.
 

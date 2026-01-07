@@ -13,7 +13,7 @@ I'm an AI student passionate about Machine Learning Engineering, slightly obsess
 
 Think of it as a digital journal: raw insights, experiments, discoveries, and the occasional deep dive into topics that spark my curiosity ;)
 
-PS : I'm not a native English Speaker. I'm still learning .Don't 
+PS : I'm not a native English Speaker.  I’m still learning, so if you spot a typo or a sentence that sounds like it was translated by a sleepy robot, feel free to ping me.
 
 
 
