@@ -30,7 +30,7 @@ I am a student in Artificial Intelligence . This year , at school , I have been 
 
    I also got the IBM  Data Science certification  as part of our school program 
  
- ![[Pasted image 20260105170107.png]]
+ ![[images/20260105170107.png]]
  
 
   We are the first cohort of the undergraduate Artificial Intelligence program. Overall , it was rich going from general knowledge of Artificial Intelligence ( not just ML like most of the programs) to particular aspects 
@@ -41,14 +41,14 @@ I am a student in Artificial Intelligence . This year , at school , I have been 
 
 I  did some online Courses on Coursera like  Google Networking Certificate . This is one of the best three courses I have taken this year . I have learnt a lot about fundamentals of networking , applications in real life , protocols . And generally , I have found excellent all the Google Courses I have been taught on Coursera . 
 
-![[Pasted image 20260105165912.png]]
+![[images/20260105165912.png]]
 
 
 This year , I proudly got my certificate on Kubernetes and Cloud Native Associate (KCNA)🥳🥳🥳
 This course introduced me to Kubernetes  with more confidence . I learnt about microservices , the Linux Fondation and the components of the Kubernetes Stack .
 
 
-![[Pasted image 20260105164544.png]]
+![[images/20260105164544.png]]
 
 On the other side , I took less  AI courses  . 
 
@@ -66,36 +66,36 @@ This year I went to Belgium 🇧🇪 and Rwanda 🇷🇼. I also had stopovers i
 
 My first trip to Belgium was part of a cooperative project between my institute and the Faculty of Engineering (Polytechnic) of Mons, organized through    [ARES](https://www.ares-ac.be/en) (Academy of Research and Higher Education) – a Belgian organization whose role is to fund and coordinate academic partnerships and capacity-building initiatives in developing countries. The goal of the project was to build an intelligent scheduling system for the thesis defenses taking place in our school . At the end of the academic year, students in last year should present their defense project during one week or more . They did it two times for one session if we include the pre-defense phase . For this , the administration should schedule all the presentations by considering the availability of the teachers , the composition of the jury ( some rules apply like the academic rank ) , availability of the classrooms , maximum number of thesis defenses per teacher in a day/week/session ...Thus , it was a problem of optimization with constraints . With the help of our supervisor , five students including me from my school and four from the Belgium Faculty design and develop the platform during some months . It was particularly challenging firstly because we worked remotely , we should combine with school's activities , worked as a team splitting across core functionalities of the web app ... But some of us were a bit experienced and we made our maximum to ship in the times .  After that, the Belgian team came to visit us here in Benin 🇧🇯. We showed them around our university, some historical sites, local food, our way of life, our AI and IoT Club, and a few of our projects. We didn’t get to show them more because their stay was short, and some of us were away on internships or busy with work/school 😢
 
-![[Pasted image 20260105165317.png]]
+![[images/20260105165317.png]]
 
 
-![[Pasted image 20260105165301.png]]
+![[images/20260105165301.png]]
 
 
-![[Pasted image 20260105165335.png]]
+![[images/20260105165335.png]]
 
 
 Some months later , we as the Beninese Team , came to Belgium . It was my first flight experience so far . First impression was the temperature 🥶 . For us , coming from a subsharian country It was very cold but not so much for those who lived at Mons😅 ( the City where we went) . Will not say great things about the food since it was most fast food apart from the breakfast ( cofee, croissant , fruits, beacons ) but in the restaurants , the command was digitalized/automatised . It was the first time I’d seen anything like that. The transport system felt really modern too ( Train , Public Bus ) .  In short, we were lucky enough to see and experience modernity in real life, not just on TV or social media. Oh, and the city where we stayed has real eco-policies in place: mandatory recycling, bike lanes everywhere, trees lining the streets, patches of grass everywhere .We also dropped by our partners’ campus. It gave us a real look at student life in a developed country, and I was hooked on the stuff the students had set up themselves: peer-run groups that share job ads, internship leads, and solidarity funds. For cooperation projects like ours, they even have a student-led association whose only job is to plug classmates into worldwide, high-impact projects.  Then, we presented our project to the school administration and listen to other projects with other african countries ( It was fascinating to see how students backed by a bit of funding and some coaching can work together without distinction of race on challenging projects sometimes in rural zone). 
 
 
-![[Pasted image 20260105165149.png]]
+![[images/20260105165149.png]]
 
 
 
-![[Pasted image 20260105165121.png]]
+![[images/20260105165121.png]]
 
 
-![[Pasted image 20260105165040.png]]
+![[images/20260105165040.png]]
 
 Fun fact: three out of the four members of the Belgian team were originally from Africa, so communication was effortless. On the contrary, seeing how seamlessly our African peers had studied and integrated into a foreign system while still keeping their identities shifted my view of travel: it isn’t an exceptional privilege but simply another human experience that should be open to anyone willing to take it.
 
-![[Pasted image 20260105165108.png]]
+![[images/20260105165108.png]]
 
 #### 👉🏾🇷🇼👈🏾
 
 I really didn't expect this trip but here we go . I went to Rwanda for attending the largest  conference on Artificial Intelligence in Africa :  [Deep Learning Indaba ( DLI)](https://deeplearningindaba.com/)  
 
-![[Pasted image 20260105164841.png]]
+![[images/20260105164841.png]]
 
 
 *How  did I end up there ?* 
@@ -106,7 +106,7 @@ To attend the conference you either pay the registration fee or apply for financ
 I flew out of Lagos  ( Nigeria) because the fare was cheaper . We drove from the Benin–Nigeria border straight to the airport, so I got a quick glimpse of Nigeria along the way. The trip wasn’t all rosy, but our driver was professional and we ran into zero problems. Then I boarded the plane ( the second time in my life in the same year ) and headed for Rwanda, the East-African country.   
 
 
-![[Pasted image 20260105164742.png]]
+![[images/20260105164742.png]]
 
 
 
@@ -122,13 +122,13 @@ It is definitely one of my best moments of the year. I met African Researchers a
 - *Networking Games*
 
 
-![[Pasted image 20260105164806.png]]
+![[images/20260105164806.png]]
 
 
 
 As the Etihuku rep I also ran the booth with my boss. We rolled out creative,  marketing twists like  a chill, family-friendly version of Squid Game. Humble brag: we were easily the most imaginative stand there 🙂‍↔️ . It also gave me a deeper look inside the company and plenty of face-time with visitors. 
 
-![[Pasted image 20260105165440.png]]
+![[images/20260105165440.png]]
 
 Throughout the whole conference I spoke mostly English with everyone; it pushed me out of my comfort zone and left me a lot more confident in the language. 
 
@@ -178,9 +178,11 @@ Let's talk  about tech communities  , the local ones mainly .
 
 ### Computer Warriors
 
-We created one in our school . The goal was to federate students together to valorise their projects , grow by learning skills , create a network . This year we made some interesting activities like the "Building with AI " series where we tend to teach about GenAI ways to build apps nowadays.  We thank that any developer should be at least informed and formed on AI tools to see how to approach it .  One of our most appreciated activities is a talk show about internships . You can think of it as a laid-back meet-up among friends where everyone just spills how their internship went : the good, the bad, and the “never again” 😆.   We also made some Live Coding sessions and [CodingGame](https://www.codingame.com/) 's sessions for competitive programming skills .  
+We created one in our school . The goal was to federate students together to valorise their projects , grow by learning skills , create a network . This year we made some interesting activities like the "Building with AI " series where we tend to teach about GenAI ways to build apps nowadays.  We thought that any developer should be at least informed and formed on AI tools to see how to approach it .  
 
-One of the things I cared about most was running a hands-on Github Education session (or a couple of them) to show students how to grab all the free tools and credits that come with the Github Student  pack. For us, coming from an under-resourced country, it’s often hard—whether because of money, infrastructure, or plain awareness to get hold of top-tier tools right from the start. So when I stumbled across GitHub Education my first reaction was pure excitement: here was a free, legal shortcut to best services , industry-grade repos,community,  cloud credits and learning paths. I immediately wanted to spread the word, whether you’re into web dev, AI, IoT or any other tech niche as a student . We managed to squeeze in one hands-on session plus a couple of reminders, but it still feels like a drop in the bucket; I’m already plotting a more structured roll-out for 2026 so no one misses out again. 
+One of our most appreciated activities is a talk show about internships . You can think of it as a laid-back meet-up among friends where everyone just spills how their internship went : the good, the bad, and the “never again” 😆.   We also made some Live Coding sessions and [CodingGame](https://www.codingame.com/) 's sessions for competitive programming skills .  
+
+One of the things I cared about most was running a hands-on Github Education session (or a couple of them) to show students how to grab all the free tools and credits that come with the Github Student  pack. For us, coming from an under-resourced country, it’s often hard whether because of money, infrastructure, or plain awareness to get hold of top-tier tools right from the start. So when I stumbled across GitHub Education my first reaction was pure excitement: here was a free, legal shortcut to best services , industry-grade repos,community,  cloud credits and learning paths. I immediately wanted to spread the word, whether you’re into web dev, AI, IoT or any other tech niche as a student . We managed to squeeze in one hands-on session plus a couple of reminders, but it still feels like a drop in the bucket; I’m already plotting a more structured roll-out for 2026 so no one misses out again. 
 
 
 > [!note]
@@ -197,7 +199,7 @@ Yes we have also another community at school called "Future of AI " that is focu
 
 - *Neural Night* :  Live Coding very late nightly where we just build something related to AI together . Unfortunately , we only had 2 or 3 sessions ( it is not regular and everyone is not available at a certain time of night )
 
-- *Data Engineering Series* : We are often more focused on machine learning , modeling but not on the raw material that constitutes the data .So a friend of mine who already works here as a data engineer in the local industry  ran a structured, hands-on series that takes data engineering from the ground up ; raw data to production pipelines . You can watch on Youtube : https://youtube.com/playlist?list=PL-Wrfjk3ZE__frLErCrX3_Z0XwAU9EXGC&si=rm8Higk__WTR6TRn
+- *Data Engineering Series* : We are often more focused on machine learning , modeling but not on the raw material that constitutes the data .So a  [friend](https://www.linkedin.com/in/abraham-zacharie-koloboe-data-science-ia-generative-llms-machine-learning/) of mine who already works here as a data engineer in the local industry  ran a structured, hands-on series that takes data engineering from the ground up ; raw data to production pipelines . You can watch on Youtube : https://youtube.com/playlist?list=PL-Wrfjk3ZE__frLErCrX3_Z0XwAU9EXGC&si=rm8Higk__WTR6TRn
 
 
 
@@ -229,13 +231,13 @@ I really learnt from these communities through their discussions , the ressource
 
 *Bits and Bistro*
 
-![[Pasted image 20260107094835.png]]
+![[images/20260107094835.png]]
 
 #DevDay2025 from *Club des Devs*
-![[Pasted image 20260107100827.png]]
+![[images/20260107100827.png]]
 
 DevFest 2025 by *GDG Abomey-Calavi*
-![[Pasted image 20260107100847.png]]
+![[images/20260107100847.png]]
 
 
 
@@ -249,7 +251,7 @@ I am volunteer in two organizations . The first , [ FRIARE](https://www.friare.o
 
 We hosted this year , the ACP Summer School( [Association for Constraint Programming](https://www.a4cp.org/)) 
 
-![[Pasted image 20260107105741.png]]
+![[images/20260107105741.png]]
 
 It was an occasion to learn more about Constraint Programming , the ecosystem worldwide and the pratical aspects of this field
 
@@ -268,7 +270,7 @@ It’s not exactly new ground for me: since last year I’ve also been volunteer
 
 
 
-![[Pasted image 20260107113106.png]]
+![[images/20260107113106.png]]
 
 
 
@@ -297,7 +299,7 @@ Aside of the projects I talked about above , I worked on :
 
 - *Hack4IFRI*: I worked with the dev team to set up the CI/CD pipeline and deploying the hackathon of our school ( registration , leaderboard ...)
 
-![[Pasted image 20260107114746.png]]
+![[images/20260107114746.png]]
 
 
 
@@ -307,7 +309,7 @@ Aside of the projects I talked about above , I worked on :
 ## Money 😏
 
 
-![[Pasted image 20260107125344.png]]
+![[images/20260107125344.png]]
 
 
 This year I got my first pay for a client through a friend . My main role was to set up environments for him( web development ) ,to deploy the app and its components and to set monitoring solutions for the platform .  The pay was not too much  but it gives me confidence that people can trust me for my skills . I also learnt a lot about it from a technical perspective but also as someone who has to sell himself to deliver a service.
@@ -346,7 +348,7 @@ One thing I can say about this year is that it’s mainly the result of my past 
 
 ## Conclusion
 
-![[Pasted image 20260107125119.png]]
+![[images/20260107125119.png]]
 
 
 

@@ -135,7 +135,7 @@ C'est aussi pourquoi il faut faire de la vulgarisation, parler du sujet
 
 ## Faire de la vulgarisation
 
-<img src="Pasted image 20250727141936.png" class="center-image">
+<img src="images/20250727141936.png" class="center-image">
 
 
   *[Ceci](https://www.linkedin.com/company/the-lab-benin/posts?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BhE6owKNWQHKZDSXhos%2F3cw%3D%3D) par exemple est un cas de vulgarisation. Certains de mes camarades de promo ont fait une séance d'information et de vulgarisation sur l'intelligence artificielle à des élèves du secondaire à Ouidah le Samedi 26 Juillet 2025, histoire de faire découvrir ce monde qui n'est pas nouveau mais qui fait parler de lui, les métiers pour faire carrière dans le domaine, l'intérêt pour un africain, les défis etc.*
