@@ -22,10 +22,11 @@ I am a student in Artificial Intelligence . This year , at school , I have been 
 
  1. *Constraint programming* where we design and build a small  intelligent scheduling system for exams at school : One thing I like about constraint programming is the modeling part . We care more about the problem, the constraints ,the variables and the logic than programming . The code is the least important part because once you explore all the possibilities , identify clearly the variables in game and the constraints you should manage and you formulate them mathematically , the remaining work is easier 
  
- 2.   *Final Year's Hackathon* :  Our task was to build a prediction system for .. disease with a dataset . For this project , the dataset was a bit messy : missing and anormal values , few lines , many columns ... Also here , our problem solving's spirit was very required . I understood the importance to cleary understand the task and the context before making actions . Making hypothesis after seeking informations about the disease , then using the data analysis's tools to verify them , run experiments , going  backward to review a decision ... The second challenge was to work as a team and it's difficult since we can't meet physically and everyone was not connected or didn't progress on a particular task but we made our maximum to finish and pitch our work . We didn't win ☹️ but I learnt a lot about data analysis , data transformation techniques , statistics tests 
+ 2.   *Final Year's Hackathon* :  Our task was to build a prediction system for chronic kidney  disease with a dataset of a local hospital  . For this project , the dataset was a bit messy : missing and anormal values , few lines , many columns ... Also here , our problem solving's spirit was very required . I understood the importance to cleary understand the task and the context before making actions . Making hypothesis after seeking informations about the disease , then using the data analysis's tools to verify them , run experiments , going  backward to review a decision ... The second challenge was to work as a team and it's difficult since we can't meet physically and everyone was not connected or didn't progress on a particular task but we made our maximum to finish and pitch our work . We didn't win ☹️ but I learnt a lot about data analysis , data transformation techniques , statistics tests 
 
-3. *NLP* : Building a sentiment analysis model and deploying it in the cloud 
-    I improved specifically my skills on [MLOPs](https://en.wikipedia.org/wiki/MLOps) . I deployed my first ML project on Google Cloud Platform with CI/CD ( Continuous Integration and Continuous Deployment ) and Cloud Run ( thanks Google for the 200$ credits ! ). You can take a look on my Github  and give a star (  since I finished my GCP credits , it's not available as a public API online ) .
+3. *NLP* : We build a sentiment analysis model and deploying it in the cloud .
+
+	I improved specifically my skills on [MLOPs](https://en.wikipedia.org/wiki/MLOps) . I deployed my first ML project on Google Cloud Platform with CI/CD ( Continuous Integration and Continuous Deployment ) and Cloud Run ( thanks Google for the 200$ credits ! ). You can take a look on my  [GitHub ](https://github.com/Essogbe/g2-sentiment-analysis) and give a star (  since I finished my GCP credits , it's not available as a public API online ) .
 
    I also got the IBM  Data Science certification  as part of our school program 
  
@@ -333,6 +334,13 @@ With the area of AI  , it can be a bit challenging for a junior like me and part
 - making enough money to playing with cloud and GPUs  
 - improving my soft  skills related to team management and listening
 - build cool things for [AIDA](https://aida.bj/)
+
+One thing I can say about this year is that it’s mainly the result of my past actions. I don’t know exactly how to explain it, but the efforts and convictions I put into things started to take shape. It’s not necessarily clear . Some doubts and obstacles remain but the path to follow is becoming more and more illuminated. Certain decisions were sometimes made quickly, without deep reflection, simply because they answered “yes” to the question, “Is this what you want?” Those are often the ones that bore fruit. On the other hand, there’s the factor of trust: elders, mentors, or friends who took a kind of bet on you, on your abilities, because of certain actions you took or because you showed them your capacity and willingness to do something. Anyway , you should make the first step 
+
+>[!quote]
+> ### *Just do it* 
+ >#### NIKE
+
 
 
 
