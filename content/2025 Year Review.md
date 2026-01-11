@@ -3,6 +3,7 @@ tags:
   - yearreview2025
 title: My 2025's Review
 socialImage: https://www.dexerto.fr/cdn-image/wp-content/uploads/sites/2/2025/03/14/rafal-du-mouvement-de-la-terre.jpg
+date: 2026-01-08
 ---
 
 
@@ -163,7 +164,7 @@ It is the government body created in 2022 by merging four former agencies to imp
 *How did I end up there*
 
 As my internship at Etihuku , it's  a bit particular 😅 .
-I joined ASIN via  recommandation from our school which sent a bunch of students coming from almost all the academic tracks ( Sofware Engineering , Cybersecurity , Internet & Multimedia , AI , IoT ). We sent our CV and many months later they scheduled a practical test for the recruitment. We almost forgot and didn't really know the specifications of the internship till they called us for the interview.  During the interview , we faced a problem in teams  and to pitch our results . It's a very original interview focusing more  on team skills . The internship is  on information-system compliance auditing within the CASE department at ASIN (CASE = Consulting, Architecture, Strategy & Studies), a cross-functional unit that supports every directorate in the agency . This department is tasked with designing and/or validating the end-to-end architecture of the State’s information systems from business requirements right down to production deployment while also auditing them for compliance with national laws and regulatory frameworks. After the pratical round, three of us were selected and we started in December . 
+I joined ASIN via  recommandation from our school which sent a bunch of students coming from almost all the academic tracks ( Sofware Engineering , Cybersecurity , Internet & Multimedia , AI , IoT ). We sent our CV and many months later they scheduled a practical test for the recruitment. We almost forgot and didn't really know the specifications of the internship till they called us for the interview.  During the interview , we faced a problem in teams  and to pitch our results . It's a very original interview focusing more  on team skills . The internship is  on information-system compliance auditing within the CASE department at ASIN (CASE = Consulting, Architecture, Strategy & Studies), a cross-functional unity . This department is tasked with designing and/or validating the end-to-end architecture of the State’s information systems from business requirements right down to production deployment while also auditing them for compliance with national laws and regulatory frameworks. After the pratical round, three of us were selected and we started in December . 
 
 
 If you have read me since the starting you will understand it's great opportunity for me regarding my passion for DevOps particularly . I will be  at the heart of most  transformative digital  projects of my country . I’ll dive deep into system design, large-scale digital projects and tech-industry regulations, and meet the people who actually shape Benin’s digital ecosystem both in the public and private sectors. 
