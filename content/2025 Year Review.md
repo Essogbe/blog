@@ -14,15 +14,6 @@ I don't know how you people did that but making a whole year review is not easy 
 ![Texte alternatif](https://c.tenor.com/jmiZ4AXO_DoAAAAC/tenor.gif)
 
 
-```python
-import numpy
-x = 3+4
-```
-
-
->[!note]
->Je suis ton père
-
 
 
 
