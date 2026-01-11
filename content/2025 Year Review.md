@@ -13,6 +13,17 @@ I don't know how you people did that but making a whole year review is not easy 
 ![Texte alternatif](https://c.tenor.com/jmiZ4AXO_DoAAAAC/tenor.gif)
 
 
+```python
+import numpy
+x = 3+4
+```
+
+
+>[!note]
+>Je suis ton père
+
+
+
 
 ## Technical Skills
 
@@ -53,7 +64,7 @@ This course introduced me to Kubernetes  with more confidence . I learnt about m
 On the other side , I took less  AI courses  . 
 
 
-I started CS336 ( top 3 of online courses I've followed mostly because I have access to assignments . It's less passive than the majority of content on Internet nowadays ) but didn't finish yet . I touched a bit of MLFlow , Ray  . I took short courses on DeepLearning.AI for some projects related to Retrieval Augmented Generation ( RAG ) and Knowledge Graphs . Talking of GenAI , I discovered a great framework called Dspy with what I won a hackathon this year ( I strongly recommend it ) . I also started a Pytorch Course but since I have not done a bunch of Deep Learning projects this year ( if I didn't include the GPT from scratch course with Andrej Kaparthy ) , I will not say it is a skill acquired at 100% . Hope I will dive in AI more in 2026 
+I started [Stanford CS336 | Language Modeling from Scratch](https://stanford-cs336.github.io/spring2025/) ( top 3 of online courses I've followed mostly because I have access to assignments . It's less passive than the majority of content on Internet nowadays ) but didn't finish yet . I touched a bit of  [MLflow](https://mlflow.org/)   . I took short courses on [DeepLearning.AI](https://www.deeplearning.ai/)cts related to Retrieval Augmented Generation ( RAG ) and Knowledge Graphs . Talking of GenAI , I discovered a great framework called [DSPy](https://dspy.ai/) with what I won a hackathon this year ( I strongly recommend it ) . I also started a Pytorch Course but since I have not done a bunch of Deep Learning projects this year ( if I didn't include the GPT from scratch course with Andrej Kaparthy ) , I will not say it is a skill acquired at 100% . Hope I will dive in AI more in 2026 
 
 There are more to say here . The next chapters will give additional thinks about my learning journey and projects
 
@@ -329,13 +340,19 @@ With the area of AI  , it can be a bit challenging for a junior like me and part
 
 - I hope ending my thesis defense project and start thinking about a master degree
 - Acquiring skills on system design through my current role
-- Diving in distributed systems  like Kubernetes,  [Ray](https://www.ray.io/) for AI Workloads ,  [vllm](https://vllm.ai/)
--  Doing pratical projects on AI and DevOps
+-  Doing pratical projects 
 - Being more engaged in my communities and building something I could be proud about
 - Maybe start building in public
 - making enough money to playing with cloud and GPUs  
 - improving my soft  skills related to team management and listening
 - build cool things for [AIDA](https://aida.bj/)
+- do hard things
+- read books
+- acquiring skills in other fields not related to my work
+- working out 
+- taking more risks
+- (I will figure out what matters during the year . I will adapt )
+
 
 One thing I can say about this year is that it’s mainly the result of my past actions. I don’t know exactly how to explain it, but the efforts and convictions I put into things started to take shape. It’s not necessarily clear . Some doubts and obstacles remain but the path to follow is becoming more and more illuminated. Certain decisions were sometimes made quickly, without deep reflection, simply because they answered “yes” to the question, “Is this what you want?” Those are often the ones that bore fruit. On the other hand, there’s the factor of trust: elders, mentors, or friends who took a kind of bet on you, on your abilities, because of certain actions you took or because you showed them your capacity and willingness to do something. Anyway , you should make the first step 
 
